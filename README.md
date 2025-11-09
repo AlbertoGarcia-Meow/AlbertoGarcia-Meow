@@ -1,12 +1,12 @@
-`
-:::    :::  ::::::::  :::            :::     :::      
-:+:    :+: :+:    :+: :+:          :+: :+:   :+:      
-+:+    +:+ +:+    +:+ +:+         +:+   +:+  +:+      
-+#++:++#++ +#+    +:+ +#+        +#++:++#++: +#+      
-+#+    +#+ +#+    +#+ +#+        +#+     +#+ +#+      
-#+#    #+# #+#    #+# #+#        #+#     #+#          
-###    ###  ########  ########## ###     ### ###      
-`
+# ¡Hola! 👋
+
+Soy estudiante de ingeniería en tecnologías de la información e innovación digital, aprendiendo C++, C#, .NET y desarrollo de apps interactivas.  
+Me interesa crear herramientas, juegos y proyectos creativos.
+
+🌱 Actualmente aprendiendo: GitHub y control de versiones  
+⚙️ Lenguajes: C, C#, Java, JavScript, HTML, CSS, Python 
+🎨 Hobbies: dibujo, pixel art, y animación 2.
+
 <!--
 **AlbertoGarcia-Meow/AlbertoGarcia-Meow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
